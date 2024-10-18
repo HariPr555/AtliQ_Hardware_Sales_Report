@@ -37,6 +37,9 @@ The dataset contains over a million sales record and consists of the following f
 - **Feature Extraction**: Replaced the values with releveant data for accurate analysis.
 
 # 6. Data Modelling
+
+![image](https://github.com/user-attachments/assets/cf032ae7-e48a-4fd4-8610-afcf6a4dfe27)
+
 - Create Fact and Dimension Tables:
   - **Fact Table**: Sales, Target
   - **Dimension Tables**: Date, Product, Customer, Market, 
