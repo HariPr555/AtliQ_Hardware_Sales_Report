@@ -1,5 +1,24 @@
 # AtliQ_Hardware_Sales_Report
-AtliQ Hardware's sales performance data was analyzed using advanced Excel techniques. By leveraging pivot tables, data validation, and complex formulas, dynamic reports were created to highlight key metrics such as customer performance, market sales versus targets, and gross margin analysis. This project focuses on analyzing AtliQ Hardware's sales performance data, which includes regional sales figures, customer growth, product performance, and market comparison against set targets. The goal is to provide insights that can drive data-driven decision-making for improving revenue streams, optimizing customer relationships, and identifying growth opportunities..
+AtliQ Hardware's sales performance data was analyzed using advanced Excel techniques. By leveraging pivot tables, data validation, and complex formulas, dynamic reports were created to highlight key metrics such as customer performance, market sales versus targets, and gross margin analysis. This project focuses on analyzing AtliQ Hardware's sales performance data, which includes regional sales figures, customer growth, product performance, and market comparison against set targets. The goal is to provide insights that can drive data-driven decision-making for improving revenue streams, optimizing customer relationships, and identifying growth opportunities.
+
+# Customer Performance Report
+![image](https://github.com/user-attachments/assets/940c7a3d-8304-45fb-b4e5-a80e875cdb7e)
+![image](https://github.com/user-attachments/assets/7610f106-3051-4683-a00f-75334693c9c7)
+
+# Market Performance vs Target Report
+![image](https://github.com/user-attachments/assets/de2ff089-1b9d-4e95-9605-d2251956fc9c)
+
+# Top 10 Products (Revenue)
+![image](https://github.com/user-attachments/assets/b10d131d-f90b-4732-ac4b-356abf827730)
+
+# Division Level Report
+![image](https://github.com/user-attachments/assets/baf8b822-1594-49ca-80a4-399d0218efc2)
+
+# Top 5 and Bottom 5 Products (Quantity Sold)
+![image](https://github.com/user-attachments/assets/ee5764d6-6f26-4d9e-a7b8-4552de36c8e5)
+
+# New Products - 2021
+![image](https://github.com/user-attachments/assets/61f59961-d969-4c1d-8bb7-2fea3a420dbe)
 
 # 1. Background
 AtliQ Hardware is a leading global manufacturer of computer hardware, producing a wide range of electronic components such as personal computers, keyboards, and mouse. The company caters to a diverse customer base, including prominent e-commerce platforms like Amazon and Flipkart, as well as retail chains like Chroma. AtliQ’s business operates through two key models: e-commerce and brick-and-mortar. The company uses a multi-channel approach to reach its customers, encompassing direct sales, retail partnerships, and distribution networks. This comprehensive strategy enables AtliQ to maintain a competitive presence in both online and physical marketplaces.
